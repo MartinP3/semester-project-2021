@@ -1,0 +1,252 @@
+/* Sitewide CSS */
+
+body {
+  font-family: "Roboto", Verdana, Geneva, Tahoma, sans-serif;
+  margin: 0px;
+  min-height: 100vh;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  text-align: center;
+  text-decoration: none;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  place-content: space-between;
+  padding-right: 3em;
+  position: fixed;
+  width: 100%;
+}
+
+header,
+header a,
+footer {
+  background-color: #024c7e;
+  color: #fff;
+}
+
+nav {
+  display: none;
+  position: fixed;
+  top: 90px;
+  background: #024c7e;
+  z-index: 1000;
+  right: 0px;
+}
+
+nav ul {
+  padding: 0px;
+}
+
+nav li {
+  padding: 20px 10px;
+  display: block;
+  font-size: 1.2em;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.footer-info {
+  max-width: 100%;
+  align-items: center;
+  padding: 10px 0px;
+}
+
+.logo {
+  height: 90px;
+  max-width: 150px;
+  padding-left: 0.4em;
+}
+
+main {
+  padding-top: 90px;
+}
+
+main img {
+  padding-top: 2em;
+  max-width: 1000px;
+  max-height: 100vh;
+  width: 100%;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+p {
+  text-align: start;
+  max-width: 500px;
+}
+
+div {
+  display: block;
+}
+
+.hamburger {
+  padding-right: 2em;
+}
+
+#hamburger-menu {
+  display: none;
+}
+
+#hamburger-menu:checked ~ nav {
+  display: block;
+  position: fixed;
+}
+
+.content-spacing {
+  margin-bottom: 1em;
+}
+
+h1,
+h2,
+h3,
+p {
+  font-family: "Roboto", Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+hr {
+  margin-top: 1em;
+}
+
+/* Index Page */
+
+.index-page {
+  margin: 0em 1em;
+}
+
+.index-hero {
+  font-size: 1.2em;
+}
+
+.index-content-boxes {
+  display: flex;
+  flex-direction: row;
+}
+
+.index-news {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.professor {
+  width: 200px;
+  padding-right: 5px;
+  object-fit: contain;
+}
+
+.night-in-museum {
+  width: 200px;
+  padding: 0.5em;
+  object-fit: contain;
+}
+
+.index-news h2,
+h3 {
+  font-size: 1.2em;
+  color: #024c7e;
+  padding-right: 0.5em;
+}
+
+.index-links {
+  align-items: center;
+}
+
+.index-links img {
+  max-width: 400px;
+  padding-top: 0px;
+}
+
+.index-hero-img {
+  max-width: 800px;
+  max-height: 500px;
+}
+
+/* Exhibits Page */
+
+.exhibit-page {
+  padding: 0em 1em;
+}
+
+.exhibit-img {
+  max-width: 90%;
+  max-height: 450px;
+  max-width: 1000px;
+}
+
+/* Contact Page */
+
+.contact-page {
+  margin: 0em 1em;
+}
+
+.contact-page img {
+  max-width: 100%;
+  max-height: 500px;
+  max-width: 500px;
+}
+
+.open-times {
+  padding: 0.5em 1.5em;
+  margin: 1em auto;
+  max-width: 500px;
+}
+
+span.hours {
+  display: flex;
+  float: right;
+}
+
+/* Visit Us Page */
+
+.visit-us-page {
+  padding: 1em;
+}
+
+/* Link */
+
+a {
+  text-decoration: none;
+}
+
+li a:hover,
+.index-links h3:hover {
+  color: black;
+}
+
+/* Media Queries */
+
+@media (min-width: 470px) {
+  nav {
+    display: block;
+    position: static;
+  }
+
+  nav li {
+    display: inline-block;
+    padding-right: 10px;
+  }
+
+  header label {
+    display: none;
+  }
+}
+
+@media (max-width: 600px) {
+  .visit-us-geoloc {
+    display: none;
+  }
+}
