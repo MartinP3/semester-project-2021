@@ -1,4 +1,4 @@
-# semester project 2021
+# Semester project 2021
 
 ![dazzling-feynman-211a4d netlify app_index html](https://user-images.githubusercontent.com/70173574/172427965-560efcdd-2cfa-4d67-b246-5fbc6c279787.png)
 
