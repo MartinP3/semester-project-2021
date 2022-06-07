@@ -1,10 +1,14 @@
-# semester-project-2021
+# semester project 2021
 
 ![dazzling-feynman-211a4d netlify app_index html](https://user-images.githubusercontent.com/70173574/172427965-560efcdd-2cfa-4d67-b246-5fbc6c279787.png)
 
 A simple overview of the use/purpose of the project.
 
 ## Description
+
+Out of the 3 projects I could choose from GameHub is the one that resonated the most with me and what I could make something more out of.
+
+Gamehub sets out to give people a platform to both buy and sell old and new games through the site, to lessen waste and to give you more of the value back than just pennies to the dollar like with a certain store.
 
 ## Built With
 
@@ -38,7 +42,3 @@ Currently not in need of any contribution through pull and push requests directl
 https://twitter.com/terriblecoding
 
 https://www.linkedin.com/in/martin-pedersen-723297241/
-
-## Acknowledgments
-
-I would like to thank Christonn93 for sharing his site and giving me the idea to use this nav naming sense.
