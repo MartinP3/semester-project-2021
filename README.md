@@ -6,9 +6,9 @@ A simple overview of the use/purpose of the project.
 
 ## Description
 
-Out of the 3 projects I could choose from GameHub is the one that resonated the most with me and what I could make something more out of.
+For the semester project I was tasked with making a website for the (imaginary) local communal science museum and try to increase their reach and inspire younger people to come and visit it to become more interested in sciency parts of things.
 
-Gamehub sets out to give people a platform to both buy and sell old and new games through the site, to lessen waste and to give you more of the value back than just pennies to the dollar like with a certain store.
+We were given all the materials needed to populate the site with content so all that was needed from my end was molding and designing how it is shown to the site visitor.
 
 ## Built With
 
