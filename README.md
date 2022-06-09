@@ -9,6 +9,8 @@ A simple overview of the use/purpose of the project.
 For the semester project I was tasked with making a website for the (imaginary) local communal science museum and try to increase their reach and inspire younger people to come and visit it to become more interested in sciency parts of things.
 We show the exhibitions they can go to with exciting photos that hopefully increase the interest for the youth.
 
+My choice of colors was a result of wanting a serious looking site which a museum needs in my opinion but with enganging images of what it has to offer in the form of exhibitions and a easy to read font that goes easy on the eyes.
+
 We were given all the materials needed to populate the site with content so all that was needed from my end was molding and designing how it is shown to the site visitor.
 
 ## Built With
