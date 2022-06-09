@@ -15,6 +15,8 @@ We were given all the materials needed to populate the site with content so all 
 
 - HTML
 - CSS
+- Visual Studio Code
+- Netlify
 
 ## Getting Started
 
